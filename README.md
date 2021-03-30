@@ -1,4 +1,4 @@
-**Three ways to log into a page.**
+**Three ways how to sign int!.**
     `Two Factor Authentication`
     `LDAP`
     `Google`
