@@ -1,0 +1,16 @@
+body{
+    margin: 0; padding: 0;
+    max-width: 100%;
+    height: auto;
+    background-image: url("https://i.picsum.photos/id/299/1024/768.jpg?hmac=uNiIJkJaz83jQh5pv4AxPgzSjsIa4j6FoUTjbgLqDb8");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    color: white !important;
+    text-align: center;
+}
+hr {
+    smargin: auto;
+    width: 40%;
+}
